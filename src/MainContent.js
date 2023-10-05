@@ -10,7 +10,7 @@ function MainContent() {
 
     return (
         <main>
-            <h2>各制度の名前と絡先</h2>
+            <h2>各制度の名前と連絡先</h2>
             <table>
                 <thead>
                     <tr>

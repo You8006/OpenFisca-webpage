@@ -5,7 +5,7 @@ import './styles.css';
 function Header() {
     return (
         <header>
-            <h1>各制度の名前と絡先</h1>
+            <h1>各制度の名前と連絡先</h1>
         </header>
     );
 }
