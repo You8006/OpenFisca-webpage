@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <head>
-    　　<!-- Google tag (gtag.js) -->
+    　　
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-HZ0PSM326S"></script>
         <script>
           window.dataLayer = window.dataLayer || [];
