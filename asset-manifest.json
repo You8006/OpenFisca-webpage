@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/OpenFisca-webpage/static/css/main.0913e368.css",
-    "main.js": "/OpenFisca-webpage/static/js/main.555ed23e.js",
+    "main.js": "/OpenFisca-webpage/static/js/main.6deaae2d.js",
     "static/js/787.d3e477d2.chunk.js": "/OpenFisca-webpage/static/js/787.d3e477d2.chunk.js",
     "index.html": "/OpenFisca-webpage/index.html",
     "main.0913e368.css.map": "/OpenFisca-webpage/static/css/main.0913e368.css.map",
-    "main.555ed23e.js.map": "/OpenFisca-webpage/static/js/main.555ed23e.js.map",
+    "main.6deaae2d.js.map": "/OpenFisca-webpage/static/js/main.6deaae2d.js.map",
     "787.d3e477d2.chunk.js.map": "/OpenFisca-webpage/static/js/787.d3e477d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0913e368.css",
-    "static/js/main.555ed23e.js"
+    "static/js/main.6deaae2d.js"
   ]
 }
